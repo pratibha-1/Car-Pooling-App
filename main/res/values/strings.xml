@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationPlacesAutocompleteACMS</string>
+    <string name="src_loc">Source Location</string>
+    <string name="dest_loc">Destination Location</string>
+    <string name="send">Submit</string>
+    <string name="popup">Successfully Submitted</string>
+    <string name="fail">Failed to Submit</string>
+
+</resources>
